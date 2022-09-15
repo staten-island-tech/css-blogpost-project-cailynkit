@@ -6,8 +6,21 @@ title {
     margin-bottom: ;
 }
 
+h1 {
+    color: white;
+    font-family: 'Bebas Neue', serif;
+    font-size: 65px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+h2 {
+
+}
 body {
-    background-color: white;
+
+    background-color: rgb(165, 0, 0);
         height: ;
     background-image: url(img/);
         background-position: ;
