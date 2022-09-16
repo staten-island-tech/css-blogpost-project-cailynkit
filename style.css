@@ -18,8 +18,8 @@ h1 {
 h2 {
 
 }
-body {
 
+body {
     background-color: rgb(165, 0, 0);
         height: ;
     background-image: url(img/);
@@ -30,3 +30,14 @@ body {
     font-family: ;
     font-size: 25px;
 }
+
+.left {
+    border: 10px;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    background-color: black;
+}
+
+.st {
+    color: white;
