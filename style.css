@@ -1,43 +1,58 @@
 title {
-    text-align: ;
-    margin: ;
-    /* top, right, bottom, left */
-    margin-top: ;
-    margin-bottom: ;
+  text-align: ;
+  margin: ;
+  /* top, right, bottom, left */
+  margin-top: ;
+  margin-bottom: ;
 }
 
 h1 {
-    color: white;
-    font-family: 'Bebas Neue', serif;
-    font-size: 65px;
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 0px;
-}
-
-h2 {
-
+  color: white;
+  font-family: "Bebas Neue", serif;
+  font-size: 65px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 body {
-    background-color: rgb(165, 0, 0);
-        height: ;
-    background-image: url(img/);
-        background-position: ;
-        background-size: ;
-    padding: ;
-    color: black;
-    font-family: ;
-    font-size: 25px;
+  background-color: rgb(165, 0, 0);
+  height: ;
+  background-image: url(img/);
+  background-position: ;
+  background-size: ;
+  padding: ;
+  color: black;
+  font-family: ;
+  font-size: 25px;
 }
 
-.left {
-    border: 10px;
-    height: 500px;
-    width: 500px;
-    position: relative;
-    background-color: black;
+.box {
+  border: 10px;
+  height: 600px;
+  width: 31%;
+  margin: 10px;
+  background-color: black;
 }
 
-.st {
-    color: white;
+#text {
+  color: white;
+  font-family: "Bebas Neue", serif;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+  height: 400px;
+}
+
+.main {
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
