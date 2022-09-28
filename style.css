@@ -13,8 +13,7 @@ body {
 }
 
 .box {
-  border: 10px;
-  height: 700px;
+  height: 10%;
   width: 25%;
   margin: 30px;
   background-color: black;
